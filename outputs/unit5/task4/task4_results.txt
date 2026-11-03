@@ -1,0 +1,12 @@
+TASK 4: MOTION ESTIMATION RESULTS
+---------------------------------
+Input video: cca3 sunil video.mp4
+FPS: 29.73965370046499
+Video dimensions: 480 x 854
+Total frames in video: 598
+Processed frames: 598
+
+Algorithms implemented:
+1. Frame Differencing
+2. GMM Background Subtraction using MOG2
+3. Lucas-Kanade Optical Flow

@@ -1,0 +1,9 @@
+TASK 3: OBJECT DETECTION RESULTS
+--------------------------------
+Haar Cascade faces detected: 1
+YOLO objects detected: 2
+YOLO person detections: 1
+
+YOLO Detection Details:
+person: confidence = 0.84
+tie: confidence = 0.66
