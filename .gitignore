@@ -1,7 +1,56 @@
+
+# Python cache files
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+
+# Virtual environments
 .venv/
 venv/
+env/
+ENV/
+
+# Environment variables and secrets
 .env
+.env.*
+!.env.example
+
+# IDE and editor settings
 .vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
 .DS_Store
+Thumbs.db
+Desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python build and distribution
+build/
+dist/
+*.egg-info/
+
+# Test and coverage files
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Generated output (uncomment if you don't want output images/videos on GitHub)
+# output/
+# outputs/
+# results/
+
+# Keep project requirements
+!requirements.txt
+submission/*.mp4
