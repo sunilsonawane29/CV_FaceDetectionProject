@@ -246,3 +246,14 @@ The complete project demonstration and explanation
 video is available at the link below:
 
 [Watch CCA 3 Project Explanation Video](https://drive.google.com/file/d/1zvLzZXZ_iRv4vepXY0QJ8xaFuBBy1P-c/view?usp=sharing)
+
+## Project Submission Links
+
+### GitHub Repository
+https://github.com/sunilsonawane29/CV_FaceDetectionProject
+
+### Explanation Video
+https://drive.google.com/file/d/1zvLzZXZ_iRv4vepXY0QJ8xaFuBBy1P-c/view?usp=sharing
+
+### Technical Report
+https://drive.google.com/file/d/1Gb82BeWHT4S5g6pTBiZrbXQAEJsu2Mpn/view?usp=sharing
