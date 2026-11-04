@@ -239,3 +239,10 @@ This project helped in understanding the practical implementation of face detect
 It provided hands-on experience with image processing, video processing, Haar Cascade classifiers, and computer vision techniques.
 
 The project demonstrates the basic working principles of face detection and its applications in real-world scenarios.
+
+## 13. Project Explanation Video
+
+The complete project demonstration and explanation
+video is available at the link below:
+
+[Watch CCA 3 Project Explanation Video](https://drive.google.com/file/d/1zvLzZXZ_iRv4vepXY0QJ8xaFuBBy1P-c/view?usp=sharing)
